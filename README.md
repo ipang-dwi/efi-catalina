@@ -50,6 +50,7 @@ Running Apps on Screenshot :
 - Apple terminal
 - <a href="https://github.com/dylanaraps/neofetch" target="blank">neofetch</a>
 - <a href="http://www.figlet.org/" target="blank">figlet</a>
+- <a href="https://www.videolan.org/vlc/index.html" target="blank">VLC</a>
 
 Installed Apps :
 - <a href="http://cvad-mac.narod.ru/index/0-4" target="blank">Kext Utility</a>
