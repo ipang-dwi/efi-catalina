@@ -10,8 +10,6 @@ EFI partition MacOSX Catalina for Asus X45C - www.firstplato.com - <a href="http
 - Version : 10.14.1 Build 19A583
 - Clover : v2.5k r5096+ 
 
-<img src="https://raw.githubusercontent.com/ipang-dwi/efi-catalina/master/img/c-moj.png"/>
-
 Tested on Asus X45C
 - Device : Asus X45C
 - Brand : Asus
