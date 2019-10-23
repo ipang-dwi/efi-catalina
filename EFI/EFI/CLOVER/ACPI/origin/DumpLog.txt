@@ -1,0 +1,102 @@
+28:838  1:184  Found BIOS RSDP at F0000
+28:838  0:000  Printing ACPI tables from RSDP F0000 ...
+28:838  0:000   F0000: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36
+28:838  0:000    (Xsdt: BE88F078, Rsdt: BE88F028)
+28:838  0:000    BE88F078: 'XSDT', 'Notebook', Rev: 1, Len: 116
+28:838  0:000    BE88F028: 'RSDT', 'Notebook', Rev: 1, Len: 76
+28:838  0:000    Tables in Xsdt: 10
+28:838  0:000    0. BE8A0358: 'FACP', 'Notebook', Rev: 5, Len: 268
+28:838  0:000        (Dsdt: BE88F188, Facs: BE8B6080, XDsdt: BE88F188, XFacs: 0)
+28:838  0:000        BE88F188: 'DSDT', 'Notebook', Rev: 2, Len: 70096
+28:840  0:001        BE8B6080: 'FACS', Ver: 2, Len: 64
+28:840  0:000    1. BE8A0468: 'APIC', 'Notebook', Rev: 3, Len: 114
+28:840  0:000    2. BE8A04E0: 'FPDT', 'Notebook', Rev: 1, Len: 68
+28:840  0:000    3. BE8A0528: 'ECDT', 'Notebook', Rev: 1, Len: 193
+28:840  0:000    4. BE8A05F0: 'MCFG', 'Notebook', Rev: 1, Len: 60
+28:840  0:000    5. BE8A0630: 'HPET', 'Notebook', Rev: 1, Len: 56
+28:840  0:000    6. BE8A0668: 'SSDT', 'AhciTab1', Rev: 1, Len: 1586
+28:840  0:000    7. BE8A0CA0: 'SSDT', 'AhciTab2', Rev: 1, Len: 1182
+28:840  0:000    8. BE8A1140: 'SSDT', 'Cpu0Ist', Rev: 1, Len: 2512
+28:840  0:000    9. BE8A1B10: 'SSDT', 'CpuPm', Rev: 1, Len: 2706
+28:840  0:000    Tables in Rsdt: 10
+28:840  0:000    0. BE88F100: 'FACP', 'Notebook', Rev: 2, Len: 132
+28:840  0:000        (Dsdt: BE88F188, Facs: BE8B6040)
+28:840  0:000        BE88F188: 'DSDT', 'Notebook', Rev: 2, Len: 70096
+28:842  0:001        BE8B6040: 'FACS', Ver: 0, Len: 64
+28:842  0:000    1. BE8A0468: 'APIC', 'Notebook', Rev: 3, Len: 114
+28:842  0:000    2. BE8A04E0: 'FPDT', 'Notebook', Rev: 1, Len: 68
+28:842  0:000    3. BE8A0528: 'ECDT', 'Notebook', Rev: 1, Len: 193
+28:842  0:000    4. BE8A05F0: 'MCFG', 'Notebook', Rev: 1, Len: 60
+28:842  0:000    5. BE8A0630: 'HPET', 'Notebook', Rev: 1, Len: 56
+28:842  0:000    6. BE8A0668: 'SSDT', 'AhciTab1', Rev: 1, Len: 1586
+28:842  0:000    7. BE8A0CA0: 'SSDT', 'AhciTab2', Rev: 1, Len: 1182
+28:842  0:000    8. BE8A1140: 'SSDT', 'Cpu0Ist', Rev: 1, Len: 2512
+28:842  0:000    9. BE8A1B10: 'SSDT', 'CpuPm', Rev: 1, Len: 2706
+28:842  0:000  Found UEFI Acpi 2.0 RSDP at BE88F000
+28:842  0:000  Saving ACPI tables from RSDP BE88F000 to EFI\CLOVER\ACPI\origin ...
+28:842  0:000   BE88F000: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36
+28:842  0:000    (Xsdt: BE88F078, Rsdt: BE88F028)
+28:842  0:000    BE88F078: 'XSDT', 'Notebook', Rev: 1, Len: 116
+28:842  0:000    BE88F028: 'RSDT', 'Notebook', Rev: 1, Len: 76
+28:842  0:000    Tables in Xsdt: 10
+28:842  0:000    0. BE8A0358: 'FACP', 'Notebook', Rev: 5, Len: 268
+28:842  0:000        (Dsdt: BE88F188, Facs: BE8B6080, XDsdt: BE88F188, XFacs: 0)
+28:842  0:000        BE88F188: 'DSDT', 'Notebook', Rev: 2, Len: 70096
+28:844  0:001        BE8B6080: 'FACS', Ver: 2, Len: 64
+28:844  0:000    1. BE8A0468: 'APIC', 'Notebook', Rev: 3, Len: 114
+28:844  0:000    2. BE8A04E0: 'FPDT', 'Notebook', Rev: 1, Len: 68
+28:844  0:000    3. BE8A0528: 'ECDT', 'Notebook', Rev: 1, Len: 193
+28:844  0:000    4. BE8A05F0: 'MCFG', 'Notebook', Rev: 1, Len: 60
+28:844  0:000    5. BE8A0630: 'HPET', 'Notebook', Rev: 1, Len: 56
+28:844  0:000    6. BE8A0668: 'SSDT', 'AhciTab1', Rev: 1, Len: 1586
+28:844  0:000    7. BE8A0CA0: 'SSDT', 'AhciTab2', Rev: 1, Len: 1182
+28:844  0:000    8. BE8A1140: 'SSDT', 'Cpu0Ist', Rev: 1, Len: 2512
+28:844  0:000    9. BE8A1B10: 'SSDT', 'CpuPm', Rev: 1, Len: 2706
+28:844  0:000    Tables in Rsdt: 10
+28:844  0:000    0. BE88F100: 'FACP', 'Notebook', Rev: 2, Len: 132
+28:844  0:000        (Dsdt: BE88F188, Facs: BE8B6040)
+28:844  0:000        BE88F188: 'DSDT', 'Notebook', Rev: 2, Len: 70096
+28:846  0:001        BE8B6040: 'FACS', Ver: 0, Len: 64
+28:846  0:000    1. BE8A0468: 'APIC', 'Notebook', Rev: 3, Len: 114
+28:846  0:000    2. BE8A04E0: 'FPDT', 'Notebook', Rev: 1, Len: 68
+28:846  0:000    3. BE8A0528: 'ECDT', 'Notebook', Rev: 1, Len: 193
+28:846  0:000    4. BE8A05F0: 'MCFG', 'Notebook', Rev: 1, Len: 60
+28:846  0:000    5. BE8A0630: 'HPET', 'Notebook', Rev: 1, Len: 56
+28:846  0:000    6. BE8A0668: 'SSDT', 'AhciTab1', Rev: 1, Len: 1586
+28:846  0:000    7. BE8A0CA0: 'SSDT', 'AhciTab2', Rev: 1, Len: 1182
+28:846  0:000    8. BE8A1140: 'SSDT', 'Cpu0Ist', Rev: 1, Len: 2512
+28:846  0:000    9. BE8A1B10: 'SSDT', 'CpuPm', Rev: 1, Len: 2706
+28:846  0:000  Found UEFI Acpi 1.0 RSDP at BE88F000
+28:846  0:000  Printing ACPI tables from RSDP BE88F000 ...
+28:846  0:000   BE88F000: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36
+28:846  0:000    (Xsdt: BE88F078, Rsdt: BE88F028)
+28:846  0:000    BE88F078: 'XSDT', 'Notebook', Rev: 1, Len: 116
+28:846  0:000    BE88F028: 'RSDT', 'Notebook', Rev: 1, Len: 76
+28:846  0:000    Tables in Xsdt: 10
+28:846  0:000    0. BE8A0358: 'FACP', 'Notebook', Rev: 5, Len: 268
+28:846  0:000        (Dsdt: BE88F188, Facs: BE8B6080, XDsdt: BE88F188, XFacs: 0)
+28:846  0:000        BE88F188: 'DSDT', 'Notebook', Rev: 2, Len: 70096
+28:848  0:001        BE8B6080: 'FACS', Ver: 2, Len: 64
+28:848  0:000    1. BE8A0468: 'APIC', 'Notebook', Rev: 3, Len: 114
+28:848  0:000    2. BE8A04E0: 'FPDT', 'Notebook', Rev: 1, Len: 68
+28:848  0:000    3. BE8A0528: 'ECDT', 'Notebook', Rev: 1, Len: 193
+28:848  0:000    4. BE8A05F0: 'MCFG', 'Notebook', Rev: 1, Len: 60
+28:848  0:000    5. BE8A0630: 'HPET', 'Notebook', Rev: 1, Len: 56
+28:848  0:000    6. BE8A0668: 'SSDT', 'AhciTab1', Rev: 1, Len: 1586
+28:848  0:000    7. BE8A0CA0: 'SSDT', 'AhciTab2', Rev: 1, Len: 1182
+28:848  0:000    8. BE8A1140: 'SSDT', 'Cpu0Ist', Rev: 1, Len: 2512
+28:848  0:000    9. BE8A1B10: 'SSDT', 'CpuPm', Rev: 1, Len: 2706
+28:848  0:000    Tables in Rsdt: 10
+28:848  0:000    0. BE88F100: 'FACP', 'Notebook', Rev: 2, Len: 132
+28:848  0:000        (Dsdt: BE88F188, Facs: BE8B6040)
+28:848  0:000        BE88F188: 'DSDT', 'Notebook', Rev: 2, Len: 70096
+28:850  0:001        BE8B6040: 'FACS', Ver: 0, Len: 64
+28:850  0:000    1. BE8A0468: 'APIC', 'Notebook', Rev: 3, Len: 114
+28:850  0:000    2. BE8A04E0: 'FPDT', 'Notebook', Rev: 1, Len: 68
+28:850  0:000    3. BE8A0528: 'ECDT', 'Notebook', Rev: 1, Len: 193
+28:850  0:000    4. BE8A05F0: 'MCFG', 'Notebook', Rev: 1, Len: 60
+28:850  0:000    5. BE8A0630: 'HPET', 'Notebook', Rev: 1, Len: 56
+28:850  0:000    6. BE8A0668: 'SSDT', 'AhciTab1', Rev: 1, Len: 1586
+28:850  0:000    7. BE8A0CA0: 'SSDT', 'AhciTab2', Rev: 1, Len: 1182
+28:850  0:000    8. BE8A1140: 'SSDT', 'Cpu0Ist', Rev: 1, Len: 2512
+28:850  0:000    9. BE8A1B10: 'SSDT', 'CpuPm', Rev: 1, Len: 2706
