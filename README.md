@@ -1,6 +1,6 @@
 # efi-catalina
 
-EFI partition MacOSX Catalina for Asus X45C - www.firstplato.com - <a href="https://github.com/ipang-dwi/efi-catalina/wiki" target="_blank">Dokumentasi Lengkapnya</a>
+EFI partition MacOSX Catalina for Asus X45C - www.firstplato.com - <a href="https://github.com/ipang-dwi/efi-mojave/wiki" target="_blank">Dokumentasi Lengkapnya</a>
 
 <img src="https://raw.githubusercontent.com/ipang-dwi/efi-catalina/master/img/1.png" />
 
