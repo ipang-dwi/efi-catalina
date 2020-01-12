@@ -91,3 +91,4 @@ Feel free to reach me on :
 Logs :
 - 23.10.2019 tested on 10.15.1
 - Still waiting for stable release of MacOSX Catalina
+- Update plan to 10.15.2
