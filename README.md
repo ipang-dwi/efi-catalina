@@ -7,7 +7,7 @@ EFI partition MacOSX Catalina for Asus X45C - www.firstplato.com - <a href="http
 > Membelai Neng Lina bersama dengan Asus X45C.
 
 - MacOSX : Catalina
-- Version : 10.14.1 Build 19A583
+- Version : 10.15.1 Build 19A583
 - Clover : v2.5k r5096+ 
 
 Tested on Asus X45C
@@ -92,3 +92,4 @@ Logs :
 - 23.10.2019 tested on 10.15.1
 - Still waiting for stable release of MacOSX Catalina
 - Update plan to 10.15.2
+- 19.03.2020 update plan to 10.15.3
