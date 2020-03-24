@@ -1,10 +1,10 @@
 # efi-catalina
 
-EFI partition MacOSX Catalina for Asus X45C - www.firstplato.com - <a href="https://github.com/ipang-dwi/efi-mojave/wiki" target="_blank">Dokumentasi Lengkapnya</a>
+EFI partition MacOSX Catalina for Asus X45C - www.firstplato.com - <a href="https://github.com/ipang-dwi/efi-catalina/wiki" target="_blank">Dokumentasi Lengkapnya</a>
 
-<img src="https://raw.githubusercontent.com/ipang-dwi/efi-catalina/master/img/1.png" />
+<img src="https://raw.githubusercontent.com/ipang-dwi/efi-catalina/master/img/v3/1.png" />
 
-> Membelai Neng Lina bersama dengan Asus X45C.
+> We still fight Covid-19 - Neng catalina di tengah LockDown
 
 - MacOSX : Catalina
 - Version : 10.15.1 Build 19A583
