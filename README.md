@@ -46,6 +46,8 @@ Running Apps on Screenshot :
 - <a href="https://github.com/dylanaraps/neofetch" target="blank">neofetch</a>
 - XCHM
 
+<img src="https://raw.githubusercontent.com/ipang-dwi/efi-catalina/master/img/v3/15.png" />
+
 Installed Apps :
 - <a href="http://cvad-mac.narod.ru/index/0-4" target="blank">Kext Utility</a>
 - <a href="https://sourceforge.net/projects/cloverefiboot/" target="blank">Clover Theme Manager</a>
@@ -71,10 +73,14 @@ Installed Apps :
 - <a href="https://www.teamviewer.com/en-us/download/mac-os/" target="blank">Team Viewer</a>
 - <a href="https://www.android.com/filetransfer/" target="blank">Android File Transfer</a>
 
+<img src="https://raw.githubusercontent.com/ipang-dwi/efi-catalina/master/img/v3/16.png" />
+
 Deleted Apps :
 Almost all unneeded apps bawaan installer. :)
 
 Bagi yang ingin mencoba install, mungkin memiliki Laptop/PC dengan spesifikasi yang hampir sama, bisa baca <a href="https://github.com/ipang-dwi/efi-high-sierra/wiki" target="blank">di sini</a>. Sudah disertai link koleksi Vanilla DMG + Clover, direct access.
+
+<img src="https://raw.githubusercontent.com/ipang-dwi/efi-catalina/master/img/v3/17.png" />
 
 Akhir kata, terima kasih kepada semua pihak, baik yang sudah maupun belum atau lupa saya sebutkan. Terutama teman-teman di grup FB Forum Hackintosh Indonesia. Jika ada yang butuh bantuan patch DSDT atau sharing, bisa contact saya.
 
@@ -89,3 +95,4 @@ Logs :
 - Still waiting for stable release of MacOSX Catalina
 - Update plan to 10.15.2
 - 19.03.2020 update plan to 10.15.3
+- Tested and stable on 10.15.3
