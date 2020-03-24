@@ -9,7 +9,7 @@ EFI partition MacOSX Catalina for Asus X45C - www.firstplato.com - <a href="http
 > Neng catalina di tengah LockDown
 
 - MacOSX : Catalina
-- Version : 10.15.1 Build 19D76 - Vanilla crafted by DalianSky
+- Version : 10.15.3 Build 19D76 - Vanilla crafted by DalianSky
 - Clover : v2.5k r5106 
 
 Tested on Asus X45C
@@ -25,15 +25,21 @@ Specs :
 - HDD : Toshiba 500GB SATA2 5400RPM, replace with SSD Intel PRO 2500 180GB SATA3
 - ODD : Panasonic DVD-RW SATA2, replace with HDD HGST 1TB SATA3 7200RPM and HDD Caddy mod
 - RAM : Micron 2GB Sodimm DDR3 1333, extend with Samsung 8GB Sodimm DDR3L 1600
+- Wifi : Atheros AR9485
+- LAN : Realtek RTL8411
+- Camera : Asus USB 2.0 Camera
+- Sound : Realtek ALC260
 - Additional : USB Mouse Redragon M601 Centrophorus
 
 <img src="https://raw.githubusercontent.com/ipang-dwi/efi-catalina/master/img/v3/2.png" />
 
 Perfect work :
-[x] Audio : Latest AppleALC
+- Almost All
 
 Didn't work :
 - Realtek card reader, sudah hukum alam.
+
+<img src="https://raw.githubusercontent.com/ipang-dwi/efi-catalina/master/img/v3/3.png" />
 
 Running Apps on Screenshot :
 - Apple terminal
