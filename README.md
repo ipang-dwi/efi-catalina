@@ -1,14 +1,16 @@
 # efi-catalina
 
-EFI partition MacOSX Catalina for Asus X45C - www.firstplato.com - <a href="https://github.com/ipang-dwi/efi-catalina/wiki" target="_blank">Dokumentasi Lengkapnya</a>
+EFI partition MacOSX Catalina for Asus X45C - www.firstplato.com - <a href="https://github.com/ipang-dwi/efi-high-sierra/wiki" target="_blank">Dokumentasi Lengkapnya</a>
+
+> Bersama memerangi Covid-19 - Indonesia Kuat, Indonesia Pasti Bisa, Kita Bertahan Bersama 
 
 <img src="https://raw.githubusercontent.com/ipang-dwi/efi-catalina/master/img/v3/1.png" />
 
-> We still fight Covid-19 - Neng catalina di tengah LockDown
+> Neng catalina di tengah LockDown
 
 - MacOSX : Catalina
-- Version : 10.15.1 Build 19A583
-- Clover : v2.5k r5096+ 
+- Version : 10.15.1 Build 19D76 - Vanilla crafted by DalianSky
+- Clover : v2.5k r5106 
 
 Tested on Asus X45C
 - Device : Asus X45C
@@ -20,26 +22,15 @@ Tested on Asus X45C
 Specs :
 - Procie : Intel Core i3-2350M 2.3GHz
 - VGA : Intel HD3000
-- HDD : Toshiba 500GB SATA2 5400RPM, replace with SSD Avexir 120GB SATA3
-- ODD : Panasonic DVD-RW SATA2, replace with HDD HGST 1TB 7200RPM and HDD Caddy mod
-- RAM : Micron 2GB DDR3 1333, extend with Samsung 8GB DDR3L 1600
-- Additional : USB Mouse Rexus Xierra X3
+- HDD : Toshiba 500GB SATA2 5400RPM, replace with SSD Intel PRO 2500 180GB SATA3
+- ODD : Panasonic DVD-RW SATA2, replace with HDD HGST 1TB SATA3 7200RPM and HDD Caddy mod
+- RAM : Micron 2GB Sodimm DDR3 1333, extend with Samsung 8GB Sodimm DDR3L 1600
+- Additional : USB Mouse Redragon M601 Centrophorus
 
-<img src="https://raw.githubusercontent.com/ipang-dwi/efi-catalina/master/img/2.png" />
+<img src="https://raw.githubusercontent.com/ipang-dwi/efi-catalina/master/img/v3/2.png" />
 
 Perfect work :
-- VGA : Intel HD3000, patch based High Sierra 10.13.6 dari om chris111, optimasi karya om dosdude. Update Intel HD 3000 VRAM 2GB by me, patchnya <a href="https://github.com/ipang-dwi/ihd3000">di sini</a>.
-- Audio : latest VoodooHDA.
-- Camera / USB 2.0 Asus Webcam : latest USBInjectAll.kext by Rehabman.
-- LAN Realtek RTL8411 : RealtekRTL8111.kext by Rehabman.
-- Wifi Atheros 9485 : patch IO80211Family.kext dari Muhammad Arif Isnaini, Forum Hackintosh Indonesia. Tested totally full speed.
-- RAM Dual Channel : native tanpa kext, 2GB DDR3 1333 + 8GB DDR3 1600, clockspeed yang dipakai yang 1333. Menyesuaikan clockspeed terendah dari kedua RAM.
-- Baterai, termasuk indikatornya, shutdown, restart, sleep/hibernate : patch manual referensi dari om Rehabman + latest ACPIBatteryManager.kext.
-- Tombol Fn, bekerja normal semua, hanya buat Brightness UP and Down yang gak bisa.
-- Brightness : latest SSDT-PNLF.aml dari om Rehabman, work pakai slider dan Tombol F5 - F6, di-remapping pada keyboard shortcut di System Preferences.
-- USB Mouse 7D : Aplikasi SensibleSideButtons dari om Alexei Baboulevitch, tested lancar jaya USB Mouse Rexus Xierra X3.
-
-<img src="https://raw.githubusercontent.com/ipang-dwi/efi-catalina/master/img/3.png" />
+Almost All.
 
 Didn't work :
 - Realtek card reader, sudah hukum alam.
@@ -47,8 +38,7 @@ Didn't work :
 Running Apps on Screenshot :
 - Apple terminal
 - <a href="https://github.com/dylanaraps/neofetch" target="blank">neofetch</a>
-- <a href="http://www.figlet.org/" target="blank">figlet</a>
-- <a href="https://www.videolan.org/vlc/index.html" target="blank">VLC</a>
+- XCHM
 
 Installed Apps :
 - <a href="http://cvad-mac.narod.ru/index/0-4" target="blank">Kext Utility</a>
