@@ -30,7 +30,7 @@ Specs :
 <img src="https://raw.githubusercontent.com/ipang-dwi/efi-catalina/master/img/v3/2.png" />
 
 Perfect work :
-Almost All.
+[x] Audio : Latest AppleALC
 
 Didn't work :
 - Realtek card reader, sudah hukum alam.
