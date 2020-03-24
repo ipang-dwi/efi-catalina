@@ -41,6 +41,8 @@ Didn't work :
 
 <img src="https://raw.githubusercontent.com/ipang-dwi/efi-catalina/master/img/v3/3.png" />
 
+<img src="https://raw.githubusercontent.com/ipang-dwi/efi-catalina/master/img/v3/7.png" />
+
 Running Apps on Screenshot :
 - Apple terminal
 - QuickTime
