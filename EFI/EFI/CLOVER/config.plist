@@ -485,7 +485,7 @@
 	</array>
 	<key>GUI</key>
 	<dict>
-		<key>#ScreenResolution</key>
+		<key>ScreenResolution</key>
 		<string>1366x768</string>
 		<key>Custom</key>
 		<dict>
