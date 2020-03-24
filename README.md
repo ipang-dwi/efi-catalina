@@ -79,7 +79,7 @@ Installed Apps :
 <img src="https://raw.githubusercontent.com/ipang-dwi/efi-catalina/master/img/v3/16.png" />
 
 Deleted Apps :
-Almost all unneeded apps bawaan installer. :)
+- Almost all unneeded apps bawaan installer. :)
 
 Bagi yang ingin mencoba install, mungkin memiliki Laptop/PC dengan spesifikasi yang hampir sama, bisa baca <a href="https://github.com/ipang-dwi/efi-high-sierra/wiki" target="blank">di sini</a>. Sudah disertai link koleksi Vanilla DMG + Clover, direct access.
 
