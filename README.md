@@ -43,8 +43,11 @@ Didn't work :
 
 Running Apps on Screenshot :
 - Apple terminal
+- QuickTime
 - <a href="https://github.com/dylanaraps/neofetch" target="blank">neofetch</a>
-- XCHM
+- <a href="https://sourceforge.net/projects/xchm/" target="blank">xCHM</a>
+- <a href="https://cmus.github.io/" target="blank">cmus</a>
+- <a href="https://bjango.com/mac/istatmenus/" target="blank">istats menu</a>
 
 <img src="https://raw.githubusercontent.com/ipang-dwi/efi-catalina/master/img/v3/15.png" />
 
