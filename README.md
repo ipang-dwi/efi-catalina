@@ -101,3 +101,4 @@ Logs :
 - Update plan to 10.15.2
 - 19.03.2020 update plan to 10.15.3
 - Tested and stable on 10.15.3
+- Still waiting for stable release of MacOSX Catalina 10.15.6
