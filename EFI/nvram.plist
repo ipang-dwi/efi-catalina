@@ -2,6 +2,14 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>Clover.MountEFI</key>
+	<data>
+	MDAwMDAzRjctQTU5MC01RDhBLUI5RUMtRDUwMUVFMDcwMDAw
+	</data>
+	<key>Clover.NVRamDisk</key>
+	<data>
+	WWVz
+	</data>
 	<key>Clover.SoundDevice</key>
 	<data>
 	AgEMANBBAwoAAAAAAQEGAAAbAwoYAOs/AKkG2NtBpJFUBf7vRsMAAAAAf/8EAA==
@@ -24,7 +32,7 @@
 	</data>
 	<key>OsxAptioFixDrv-RelocBase</key>
 	<data>
-	AICruQAAAAA=
+	AGCuuQAAAAA=
 	</data>
 	<key>SystemAudioVolume</key>
 	<data>
@@ -36,7 +44,7 @@
 	</data>
 	<key>backlight-level</key>
 	<data>
-	cwA=
+	cgE=
 	</data>
 	<key>boot-args</key>
 	<string></string>
