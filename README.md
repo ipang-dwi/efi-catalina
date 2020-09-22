@@ -9,7 +9,7 @@ EFI partition MacOSX Catalina for Asus X45C - www.firstplato.com - <a href="http
 > Neng catalina di tengah PSBB, serta isu resesi global
 
 - MacOSX : Catalina
-- Version : 10.15.3 Build 19G2021 - Vanilla DMG Installer crafted by DalianSky
+- Version : 10.15.6 Build 19G2021 - Vanilla DMG Installer crafted by DalianSky
 - Clover : v2.5k r5119 - Maybe this is the latest Clover that support my old Laptop 
 
 Tested on Asus X45C
@@ -114,4 +114,4 @@ Logs :
 - 19.03.2020 update plan to 10.15.3
 - Tested and stable on 10.15.3
 - Still waiting for stable release of MacOSX Catalina 10.15.6
-- Tested and stable on 10.15.3 Build 19G2021 with Clover v2.5k r5119
+- Tested and stable on 10.15.6 Build 19G2021 with Clover v2.5k r5119
