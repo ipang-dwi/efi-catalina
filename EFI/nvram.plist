@@ -2,6 +2,10 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>Clover.KeepBackupLimit</key>
+	<data>
+	MA==
+	</data>
 	<key>Clover.MountEFI</key>
 	<data>
 	MDAwMDAzRjctQTU5MC01RDhBLUI5RUMtRDUwMUVFMDcwMDAw
@@ -32,7 +36,7 @@
 	</data>
 	<key>OsxAptioFixDrv-RelocBase</key>
 	<data>
-	AGCuuQAAAAA=
+	APATngAAAAA=
 	</data>
 	<key>SystemAudioVolume</key>
 	<data>
@@ -69,15 +73,15 @@
 	<data>
 	PGFycmF5PjxkaWN0PjxrZXk+SU9NYXRjaDwva2V5PjxkaWN0PjxrZXk+SU9Qcm92aWRl
 	ckNsYXNzPC9rZXk+PHN0cmluZz5JT01lZGlhPC9zdHJpbmc+PGtleT5JT1Byb3BlcnR5
-	TWF0Y2g8L2tleT48ZGljdD48a2V5PlVVSUQ8L2tleT48c3RyaW5nPjBFMjVBOUI4LTNB
-	OEYtNEFEMy1CMzgyLUMwNTBDNzM1ODkwNjwvc3RyaW5nPjwvZGljdD48L2RpY3Q+PC9k
+	TWF0Y2g8L2tleT48ZGljdD48a2V5PlVVSUQ8L2tleT48c3RyaW5nPjg3MDIyNzAwLTky
+	QTYtNDAyOC05ODU3LUM1MjJFREQyNTk2ODwvc3RyaW5nPjwvZGljdD48L2RpY3Q+PC9k
 	aWN0PjwvYXJyYXk+
 	</data>
 	<key>efi-boot-device-data</key>
 	<data>
-	AgEMANBBAwoAAAAAAQEGAAIfAxIKAAAA//8AAAQBKgAFAAAAADDcDAAAAAAImBkIAAAA
-	ALipJQ6POtNKs4LAUMc1iQYCAgQDJAD3/HS+fAvzSZFHAfQELmhCuMi0zafhhkCgLsnG
-	sW7gaH//BAA=
+	AgEMANBBAwoAAAAAAQEGAAIfAxIKAAAA//8AAAQBKgAEAAAAADDcDAAAAAAImBkIAAAA
+	AAAnAoemkihAmFfFIu3SWWgCAgQDJAD3/HS+fAvzSZFHAfQELmhCqBZ6cVOliUCzYyH2
+	R6kjRH//BAA=
 	</data>
 	<key>fakesmc-key-#KEY-ui32</key>
 	<data>
@@ -176,9 +180,13 @@
 	<string>none</string>
 	<key>specialbootdevice</key>
 	<data>
-	AgEMANBBAwoAAAAAAQEGAAIfAxIKAAAA//8AAAQBKgAFAAAAADDcDAAAAAAImBkIAAAA
-	ALipJQ6POtNKs4LAUMc1iQYCAgQDJAD3/HS+fAvzSZFHAfQELmhCuMi0zafhhkCgLsnG
-	sW7gaH//BAA=
+	AgEMANBBAwoAAAAAAQEGAAIfAxIKAAAA//8AAAQBKgAEAAAAADDcDAAAAAAImBkIAAAA
+	AAAnAoemkihAmFfFIu3SWWgCAgQDJAD3/HS+fAvzSZFHAfQELmhCqBZ6cVOliUCzYyH2
+	R6kjRH//BAA=
+	</data>
+	<key>wake-failure</key>
+	<data>
+	AAAAAAA=
 	</data>
 </dict>
 </plist>

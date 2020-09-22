@@ -485,8 +485,6 @@
 	</array>
 	<key>GUI</key>
 	<dict>
-		<key>ScreenResolution</key>
-		<string>1366x768</string>
 		<key>Custom</key>
 		<dict>
 			<key>Entries</key>
@@ -540,7 +538,7 @@
 		<key>ScreenResolution</key>
 		<string>1366x768</string>
 		<key>Theme</key>
-		<string>Catalina</string>
+		<string>BeautyX</string>
 	</dict>
 	<key>Graphics</key>
 	<dict>
@@ -611,6 +609,61 @@
 				<key>Replace</key>
 				<data>
 				igKEwOtC
+				</data>
+			</dict>
+		</array>
+		<key>KextsToPatch</key>
+		<array>
+			<dict>
+				<key>Comment</key>
+				<string>Enable TRIM for SSD</string>
+				<key>Disabled</key>
+				<false/>
+				<key>Find</key>
+				<data>
+				AEFQUExFIFNTRAA=
+				</data>
+				<key>Name</key>
+				<string>com.apple.iokit.IOAHCIBlockStorage</string>
+				<key>Replace</key>
+				<data>
+				AAAAAAAAAAAAAAA=
+				</data>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>USB Port limit patch #1/2 10.15.x (credit DalianSky)</string>
+				<key>Disabled</key>
+				<false/>
+				<key>Find</key>
+				<data>
+				g/sPDw==
+				</data>
+				<key>MatchOS</key>
+				<string>10.15.x</string>
+				<key>Name</key>
+				<string>com.apple.iokit.IOUSBHostFamily</string>
+				<key>Replace</key>
+				<data>
+				g/s/Dw==
+				</data>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>USB Port limit patch #2/2 10.15.x (credit DalianSky)</string>
+				<key>Disabled</key>
+				<false/>
+				<key>Find</key>
+				<data>
+				g/kPDw==
+				</data>
+				<key>MatchOS</key>
+				<string>10.15.x</string>
+				<key>Name</key>
+				<string>com.apple.driver.usb.AppleUSBXHCI</string>
+				<key>Replace</key>
+				<data>
+				g/k/Dw==
 				</data>
 			</dict>
 		</array>
