@@ -1,10 +1,10 @@
 # efi-catalina
 
-EFI partition MacOSX Catalina for Asus X45C - www.firstplato.com - <a href="https://github.com/ipang-dwi/efi-high-sierra/wiki" target="_blank">Dokumentasi Lengkapnya</a>
+EFI partition MacOSX Catalina for Asus X45C - www.firstplato.com - <a href="https://github.com/ipang-dwi/efi-catalina/wiki" target="_blank">Dokumentasi Lengkapnya</a> bisa dipakai untuk semua tipe PC dan Laptop
 
-> Bersama memerangi Covid-19 - Indonesia Kuat, Indonesia Pasti Bisa, Kita Bertahan Bersama 
+> Bersama memerangi Covid-19 - Indonesia Kuat, Indonesia Pasti Bisa, Kita Bertahan Bersama
 
-<img src="https://raw.githubusercontent.com/ipang-dwi/efi-catalina/master/img/v3/1.png" />
+<img src="https://raw.githubusercontent.com/ipang-dwi/efi-catalina/master/img/v6/2.png" />
 
 > Neng catalina di tengah LockDown
 
