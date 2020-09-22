@@ -69,6 +69,7 @@ Installed Apps :
 - <a href="https://keep.google.com/" target="blank">Google Keep</a>
 - <a href="http://xdman.sourceforge.net/" target="blank">XDM</a>
 - <a href="https://sourceforge.net/projects/xchm/" target="blank">xCHM</a>
+- <a href="https://mpv.io" target="blank">MPV</a>
 - <a href="https://www.videolan.org/vlc/index.html" target="blank">VLC</a>
 - <a href="https://www.sublimetext.com/" target="blank">SublimeText</a>
 - <a href="https://code.visualstudio.com/" target="blank">VSCode</a>
@@ -91,7 +92,7 @@ Deleted Apps :
 
 Bagi yang ingin mencoba install, mungkin memiliki Laptop/PC dengan spesifikasi yang hampir sama, bisa baca <a href="https://github.com/ipang-dwi/efi-catalina/wiki" target="blank">di sini</a>. Sudah disertai link koleksi Vanilla DMG + Clover, direct access dari DalianSky.
 
-<img src="https://raw.githubusercontent.com/ipang-dwi/efi-catalina/master/img/v3/7.png" />
+<img src="https://raw.githubusercontent.com/ipang-dwi/efi-catalina/master/img/v6/7.png" />
 
 
 Akhir kata, terima kasih kepada semua pihak, baik yang sudah maupun belum atau lupa saya sebutkan. Terutama teman-teman di grup FB Forum Hackintosh Indonesia. Jika ada yang butuh bantuan patch DSDT atau sharing, bisa contact saya.
