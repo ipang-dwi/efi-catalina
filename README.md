@@ -4,54 +4,58 @@ EFI partition MacOSX Catalina for Asus X45C - www.firstplato.com - <a href="http
 
 > Bersama memerangi Covid-19 - Indonesia Kuat, Indonesia Pasti Bisa, Kita Bertahan Bersama
 
-<img src="https://raw.githubusercontent.com/ipang-dwi/efi-catalina/master/img/v6/2.png" />
+<img src="https://raw.githubusercontent.com/ipang-dwi/efi-catalina/master/img/v6/1.png" />
 
-> Neng catalina di tengah LockDown
+> Neng catalina di tengah PSBB, serta isu resesi global
 
 - MacOSX : Catalina
-- Version : 10.15.3 Build 19D76 - Vanilla crafted by DalianSky
-- Clover : v2.5k r5106 
+- Version : 10.15.3 Build 19G2021 - Vanilla DMG Installer crafted by DalianSky
+- Clover : v2.5k r5119 - Maybe this is the latest Clover that support my old Laptop 
 
 Tested on Asus X45C
-- Device : Asus X45C
 - Brand : Asus
 - Type : X45C
-- Bios : AMI - American Megatrends International, Aptio V
-- Bios Version : 208
+- Firmware : AMI - American Megatrends International, Aptio V
+- Firmware Version : 208
+- Firmware Type : BIOS and UEFI (Hybrid)
 
 Specs :
 - Procie : Intel Core i3-2350M 2.3GHz
-- VGA : Intel HD3000
+- VGA : Intel HD3000, 2GB VRAM
 - HDD : Toshiba 500GB SATA2 5400RPM, replace with SSD Intel PRO 2500 180GB SATA3
 - ODD : Panasonic DVD-RW SATA2, replace with HDD HGST 1TB SATA3 7200RPM and HDD Caddy mod
-- RAM : Micron 2GB Sodimm DDR3 1333, extend with Samsung 8GB Sodimm DDR3L 1600
+- RAM : Micron 2GB Sodimm DDR3 1333, extends with Samsung 8GB Sodimm DDR3L 1600
 - Wifi : Atheros AR9485
 - LAN : Realtek RTL8411
 - Camera : Asus USB 2.0 Camera
 - Sound : Realtek ALC260
-- Additional : USB Mouse Redragon M601 Centrophorus
+- Additional : Old Rexus Xierra X3 USB 7D Mouse
 
-<img src="https://raw.githubusercontent.com/ipang-dwi/efi-catalina/master/img/v3/2.png" />
+<img src="https://raw.githubusercontent.com/ipang-dwi/efi-catalina/master/img/v6/2.png" />
 
-Perfect work :
+Perfect works :
 - Almost All
 
-Didn't work :
+Didn't works :
 - Realtek card reader, sudah hukum alam.
 
-<img src="https://raw.githubusercontent.com/ipang-dwi/efi-catalina/master/img/v3/3.png" />
+<img src="https://raw.githubusercontent.com/ipang-dwi/efi-catalina/master/img/v6/0.png" />
 
-<img src="https://raw.githubusercontent.com/ipang-dwi/efi-catalina/master/img/v3/7.png" />
+<img src="https://raw.githubusercontent.com/ipang-dwi/efi-catalina/master/img/v6/3.png" />
 
-Running Apps on Screenshot :
-- Apple terminal
-- QuickTime
-- <a href="https://github.com/dylanaraps/neofetch" target="blank">neofetch</a>
+On Screenshot :
+- <a href="https://iterm2.com" target="blank">iterm</a>
+- <a href="https://github.com/dylanaraps/pfetch" target="blank">pfetch</a>
 - <a href="https://sourceforge.net/projects/xchm/" target="blank">xCHM</a>
 - <a href="https://cmus.github.io/" target="blank">cmus</a>
-- <a href="https://bjango.com/mac/istatmenus/" target="blank">istats menu</a>
+- <a href="https://github.com/archagon/sensible-side-buttons" target="blank">sensible side buttons</a>
+- <a href="http://https://github.com/romkatv/powerlevel10k" target="blank">powerlevel10k</a>
+- <a href="http://https://github.com/andreberg/Meslo-Font" target="blank">Meslo Font</a>
+- <a href="http://https://github.com/aristocratos/bashtop" target="blank">bashtop</a>
+- <a href="http://www.figlet.org/" target="blank">figlet</a> 
+- <a href="https://www.sublimetext.com/" target="blank">SublimeText</a>
 
-<img src="https://raw.githubusercontent.com/ipang-dwi/efi-catalina/master/img/v3/15.png" />
+<img src="https://raw.githubusercontent.com/ipang-dwi/efi-catalina/master/img/v6/4.png" />
 
 Installed Apps :
 - <a href="http://cvad-mac.narod.ru/index/0-4" target="blank">Kext Utility</a>
@@ -78,22 +82,30 @@ Installed Apps :
 - <a href="https://www.teamviewer.com/en-us/download/mac-os/" target="blank">Team Viewer</a>
 - <a href="https://www.android.com/filetransfer/" target="blank">Android File Transfer</a>
 
-<img src="https://raw.githubusercontent.com/ipang-dwi/efi-catalina/master/img/v3/16.png" />
+<img src="https://raw.githubusercontent.com/ipang-dwi/efi-catalina/master/img/v6/5.png" />
 
 Deleted Apps :
 - Almost all unneeded apps bawaan installer. :)
 
-Bagi yang ingin mencoba install, mungkin memiliki Laptop/PC dengan spesifikasi yang hampir sama, bisa baca <a href="https://github.com/ipang-dwi/efi-high-sierra/wiki" target="blank">di sini</a>. Sudah disertai link koleksi Vanilla DMG + Clover, direct access.
+<img src="https://raw.githubusercontent.com/ipang-dwi/efi-catalina/master/img/v6/6.png" />
 
-<img src="https://raw.githubusercontent.com/ipang-dwi/efi-catalina/master/img/v3/17.png" />
+Bagi yang ingin mencoba install, mungkin memiliki Laptop/PC dengan spesifikasi yang hampir sama, bisa baca <a href="https://github.com/ipang-dwi/efi-catalina/wiki" target="blank">di sini</a>. Sudah disertai link koleksi Vanilla DMG + Clover, direct access dari DalianSky.
+
+<img src="https://raw.githubusercontent.com/ipang-dwi/efi-catalina/master/img/v3/7.png" />
+
 
 Akhir kata, terima kasih kepada semua pihak, baik yang sudah maupun belum atau lupa saya sebutkan. Terutama teman-teman di grup FB Forum Hackintosh Indonesia. Jika ada yang butuh bantuan patch DSDT atau sharing, bisa contact saya.
+
+<img src="https://raw.githubusercontent.com/ipang-dwi/efi-catalina/master/img/v6/8.png" />
+
 
 Feel free to reach me on :
 - https://www.firstplato.com
 - https://www.facebook.com/firstplato
 - admin@firstplato.com
 - WA o856 48587 856
+
+<img src="https://raw.githubusercontent.com/ipang-dwi/efi-catalina/master/img/v6/9.png" />
 
 Logs :
 - 23.10.2019 tested on 10.15.1
@@ -102,3 +114,4 @@ Logs :
 - 19.03.2020 update plan to 10.15.3
 - Tested and stable on 10.15.3
 - Still waiting for stable release of MacOSX Catalina 10.15.6
+- Tested and stable on 10.15.3 Build 19G2021 with Clover v2.5k r5119
