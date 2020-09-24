@@ -56,6 +56,7 @@ On Screenshot :
 - <a href="https://www.sublimetext.com/" target="blank">SublimeText</a>
 
 <img src="https://raw.githubusercontent.com/ipang-dwi/efi-catalina/master/img/v6/4.png" />
+<img src="https://raw.githubusercontent.com/ipang-dwi/efi-catalina/master/img/v6/10.png" />
 
 Installed Apps :
 - <a href="http://cvad-mac.narod.ru/index/0-4" target="blank">Kext Utility</a>
