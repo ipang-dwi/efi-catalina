@@ -32,13 +32,16 @@ Specs :
 - Sound : Realtek ALC260
 - Additional : Old Rexus Xierra X3 USB 7D Mouse
 
-<img src="https://raw.githubusercontent.com/ipang-dwi/efi-catalina/master/img/v6/2.png" />
-
 Perfect works : All
 
+<img src="https://raw.githubusercontent.com/ipang-dwi/efi-catalina/master/img/v6/2.png" />
+> cmus and pfetch
+
 <img src="https://raw.githubusercontent.com/ipang-dwi/efi-catalina/master/img/v6/0.png" />
+> login and lock screen
 
 <img src="https://raw.githubusercontent.com/ipang-dwi/efi-catalina/master/img/v6/3.png" />
+> about this Mac and neofetch
 
 On Screenshot :
 - <a href="https://iterm2.com" target="blank">iterm</a>
@@ -53,7 +56,10 @@ On Screenshot :
 - <a href="https://www.sublimetext.com/" target="blank">SublimeText</a>
 
 <img src="https://raw.githubusercontent.com/ipang-dwi/efi-catalina/master/img/v6/4.png" />
+> audio and sound preferences
+
 <img src="https://raw.githubusercontent.com/ipang-dwi/efi-catalina/master/img/v6/10.png" />
+> system preferences with connected Apple ID and iCloud
 
 Installed Apps :
 - <a href="http://cvad-mac.narod.ru/index/0-4" target="blank">Kext Utility</a>
@@ -82,21 +88,20 @@ Installed Apps :
 - <a href="https://www.android.com/filetransfer/" target="blank">Android File Transfer</a>
 
 <img src="https://raw.githubusercontent.com/ipang-dwi/efi-catalina/master/img/v6/5.png" />
-
-Deleted Apps :
-- Almost all unneeded apps bawaan installer. :)
+> graphic display system report and mpv
 
 <img src="https://raw.githubusercontent.com/ipang-dwi/efi-catalina/master/img/v6/6.png" />
-
-Bagi yang ingin mencoba install, mungkin memiliki Laptop/PC dengan spesifikasi yang hampir sama, bisa baca <a href="https://github.com/ipang-dwi/efi-catalina/wiki" target="blank">di sini</a>. Sudah disertai link koleksi Vanilla DMG + Clover, direct access dari DalianSky.
+> storage sata and disk utility
 
 <img src="https://raw.githubusercontent.com/ipang-dwi/efi-catalina/master/img/v6/7.png" />
+> wifi and speedtest using chrome
 
+Bagi yang ingin mencoba install, mungkin memiliki Laptop/PC dengan spesifikasi yang hampir sama, bisa baca <a href="https://github.com/ipang-dwi/efi-catalina/wiki" target="blank">di sini</a>. Sudah disertai link koleksi Vanilla DMG + Clover, direct access dari DalianSky.
 
 Akhir kata, terima kasih kepada semua pihak, baik yang sudah maupun belum atau lupa saya sebutkan. Terutama teman-teman di grup FB Forum Hackintosh Indonesia. Jika ada yang butuh bantuan patch DSDT atau sharing, bisa contact saya.
 
 <img src="https://raw.githubusercontent.com/ipang-dwi/efi-catalina/master/img/v6/8.png" />
-
+> iterm running splitted screen console : bashtop, figlet, pfetch, nano
 
 Feel free to reach me on :
 - https://www.firstplato.com
@@ -105,7 +110,10 @@ Feel free to reach me on :
 - WA o856 48587 856
 
 <img src="https://raw.githubusercontent.com/ipang-dwi/efi-catalina/master/img/v6/9.png" />
+> xchm with opened Al Qur'an digital
+
 <img src="https://raw.githubusercontent.com/ipang-dwi/efi-catalina/master/img/v6/11.png" />
+> working express card reader RTL 8411 on disk utility, auto mount, finder and ranger
 
 Logs :
 - 23.10.2019 tested on 10.15.1
