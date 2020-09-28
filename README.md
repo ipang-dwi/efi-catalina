@@ -27,17 +27,14 @@ Specs :
 - RAM : Micron 2GB Sodimm DDR3 1333, extends with Samsung 8GB Sodimm DDR3L 1600
 - Wifi : Atheros AR9485
 - LAN : Realtek RTL8411
+- Card Reader : Realtek Express Card Reader RTL8411
 - Camera : Asus USB 2.0 Camera
 - Sound : Realtek ALC260
 - Additional : Old Rexus Xierra X3 USB 7D Mouse
 
 <img src="https://raw.githubusercontent.com/ipang-dwi/efi-catalina/master/img/v6/2.png" />
 
-Perfect works :
-- Almost All
-
-Didn't works :
-- Realtek card reader, sudah hukum alam.
+Perfect works : All
 
 <img src="https://raw.githubusercontent.com/ipang-dwi/efi-catalina/master/img/v6/0.png" />
 
@@ -108,6 +105,7 @@ Feel free to reach me on :
 - WA o856 48587 856
 
 <img src="https://raw.githubusercontent.com/ipang-dwi/efi-catalina/master/img/v6/9.png" />
+<img src="https://raw.githubusercontent.com/ipang-dwi/efi-catalina/master/img/v6/11.png" />
 
 Logs :
 - 23.10.2019 tested on 10.15.1
