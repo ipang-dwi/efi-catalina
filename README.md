@@ -115,3 +115,5 @@ Logs :
 - Tested and stable on 10.15.3
 - Still waiting for stable release of MacOSX Catalina 10.15.6
 - Tested and stable on 10.15.6 Build 19G2021 with Clover v2.5k r5119
+- Update : Realtek RTL8411 works flawlessly on 10.15.6
+- Update plan to 10.15.7
